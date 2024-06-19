@@ -1,0 +1,14 @@
+/home/maxim-boguslavskiy-atom/Repositories/App/bin/Debug/net8.0/App
+/home/maxim-boguslavskiy-atom/Repositories/App/bin/Debug/net8.0/App.deps.json
+/home/maxim-boguslavskiy-atom/Repositories/App/bin/Debug/net8.0/App.runtimeconfig.json
+/home/maxim-boguslavskiy-atom/Repositories/App/bin/Debug/net8.0/App.dll
+/home/maxim-boguslavskiy-atom/Repositories/App/bin/Debug/net8.0/App.pdb
+/home/maxim-boguslavskiy-atom/Repositories/App/obj/Debug/net8.0/App.GeneratedMSBuildEditorConfig.editorconfig
+/home/maxim-boguslavskiy-atom/Repositories/App/obj/Debug/net8.0/App.AssemblyInfoInputs.cache
+/home/maxim-boguslavskiy-atom/Repositories/App/obj/Debug/net8.0/App.AssemblyInfo.cs
+/home/maxim-boguslavskiy-atom/Repositories/App/obj/Debug/net8.0/App.csproj.CoreCompileInputs.cache
+/home/maxim-boguslavskiy-atom/Repositories/App/obj/Debug/net8.0/App.dll
+/home/maxim-boguslavskiy-atom/Repositories/App/obj/Debug/net8.0/refint/App.dll
+/home/maxim-boguslavskiy-atom/Repositories/App/obj/Debug/net8.0/App.pdb
+/home/maxim-boguslavskiy-atom/Repositories/App/obj/Debug/net8.0/App.genruntimeconfig.cache
+/home/maxim-boguslavskiy-atom/Repositories/App/obj/Debug/net8.0/ref/App.dll
